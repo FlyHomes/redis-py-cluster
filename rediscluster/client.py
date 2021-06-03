@@ -95,6 +95,7 @@ READ_COMMANDS = frozenset([
     "ZCOUNT",
     "ZRANGE",
     "ZSCORE",
+    "GRAPH.RO_QUERY"
 ])
 
 
